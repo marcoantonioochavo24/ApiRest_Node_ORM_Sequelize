@@ -5,7 +5,7 @@ import {
   obtenerUno,
   actualizar,
   eliminar
-} from "../controllers/productosController.js";
+} from "../controllers/log6Controller.js";
 
 const router = express.Router();
 
